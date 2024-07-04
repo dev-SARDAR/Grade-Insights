@@ -39,12 +39,6 @@ The traditional method of result analysis in universities is predominantly manua
 
 Overall, GradeInsights aims to transform result analysis in universities, making it more efficient, accurate, and insightful. The system's goal is to provide educators with the tools they need to improve student outcomes and enhance the overall quality of education.
 
-## Results
-
-**Figure 8** shows the user interface of the **GradeInsights** application. The data scraped by **GradeInsights** is shown in **Figure 9**. **Figure 10** is a snapshot of the database where the scraped data is stored. Only the data necessary for analysis is scraped, and each subject is a different entry. **GradeInsights** uses **MongoDB** for its database.
-
-**MongoDB** is a non-relational document database that stores JSON-like data. It has a flexible data model for storing unstructured data, full indexing support, replication, and rich and intuitive APIs. **MongoDB** is designed for easy data access, rarely needing joins or transactions; however, it is capable of complex querying and analytics pipelines.
-
 ## Conclusion
 
-The study analyzed student results to help formulate future teaching pedagogy based on student performance. The goal of the project is to make result analysis and evaluation easier. The developers plan to create a platform for all OU-affiliated colleges. The project used **Puppeteer**, a JavaScript framework, and **MongoDB** to store the scraped data for analysis.
+The study analyzed student results to help formulate future teaching pedagogy based on student performance. The goal of the project is to make result analysis and evaluation easier. The project used **Puppeteer**, a JavaScript framework, and **MongoDB** to store the scraped data for analysis.
